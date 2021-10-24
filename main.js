@@ -3,7 +3,8 @@ const LinksSocialMedia = {
   linkedin: 'in/akranz',
   facebook: 'ahkranz79',
   instagram: 'henrytech7',
-  twitter: 'Alexand20297572'
+  twitter: 'Alexand20297572',
+  youtube: 'channel/UC1WRr5kwU2lSwCu6HMLlCpg'
 }
 
 function changeSocialMediaLinks() {
