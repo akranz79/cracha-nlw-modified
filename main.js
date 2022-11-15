@@ -1,8 +1,8 @@
 const LinksSocialMedia = {
   github: 'akranz79',
   linkedin: 'in/akranz',
-  facebook: 'ahkranz79',
-  instagram: 'henrytech7',
+  facebook: '',
+  instagram: 'alexandre.kranz',
   twitter: 'Alexand20297572',
   youtube: 'channel/UC1WRr5kwU2lSwCu6HMLlCpg'
 }
